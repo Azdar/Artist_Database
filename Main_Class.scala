@@ -85,7 +85,7 @@ object Main_Class {
     // Note that readLine() and readPassword() don't play well with
     // running this code under Eclipse - may have to run on command line
     val username = "astogsdill"
-    val password = "ttomme37912"
+    val password = ""
 
     // connect to database (must handle or throw exception)
     val db = try
